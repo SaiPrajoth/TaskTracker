@@ -1,5 +1,3 @@
- 
-
 # TaskFlow ✅
 ![TaskFlow Logo](task-tracker-logo.png)
 
@@ -19,31 +17,6 @@ TaskFlow is a **fast, minimalistic productivity application** designed to keep y
 - **Authentication:** Firebase/Auth0
 - **Hosting:** Vercel, Cloudflare Workers
 
-## 🚀 Getting Started
-### Prerequisites
-Ensure you have the following installed:
-- **Node.js** (v16+)
-- **npm** or **yarn**
-
-### Installation
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/your-username/taskflow.git
-   ```
-2. **Navigate to the project directory**
-   ```sh
-   cd taskflow
-   ```
-3. **Install dependencies**
-   ```sh
-   npm install
-   ```
-4. **Start the development server**
-   ```sh
-   npm run dev
-   ```
-   The app will be available at `http://localhost:3000`.
-
 ## 📖 How to Use
 1. **Sign Up/Login** – Create an account to start managing tasks.
 2. **Create a Task** – Add tasks with due dates and priorities.
@@ -59,13 +32,12 @@ We welcome contributions! Here’s how you can help:
 4. **Commit and push** (`git commit -m 'Add feature' && git push origin feature-branch`)
 5. **Open a Pull Request**
 
-## 📜 License
-TaskFlow is released under the **MIT License**.
+
 
 ## 📬 Support
 For assistance, reach out via:
 - **GitHub Issues** – Report bugs and suggest features.
-- **Email:** support@taskflow.com
+- **Email:** tasktrackercom@gmail.com
 
 ---
 Stay productive and organized with **TaskFlow**! 🚀

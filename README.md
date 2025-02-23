@@ -1,4 +1,4 @@
-# TaskTracker ✅
+# TaskTracker 
 ![TaskTracker Logo](./task-tracker-logo.png)
 
 TaskTracker is a **fast, minimalistic productivity application** designed to keep you organized and efficient. With a **clean UI**, **smart reminders**, and **seamless sync across devices**, TaskFlow ensures you stay on top of your tasks effortlessly.
@@ -24,7 +24,7 @@ TaskTracker is a **fast, minimalistic productivity application** designed to kee
 4. **Set Reminders** – Never miss a deadline with smart notifications.
 5. **Sync Across Devices** – Stay productive anywhere, anytime.
 
-## 🤝 Contributing
+##  Contributing
 We welcome contributions! Here’s how you can help:
 1. **Fork the repository**
 2. **Create a feature branch** (`git checkout -b feature-branch`)

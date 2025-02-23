@@ -1,5 +1,5 @@
 # TaskTracker ✅
-![TaskTracker Logo](task-tracker-logo.png)
+![TaskTracker Logo](./task-tracker-logo.png)
 
 TaskTracker is a **fast, minimalistic productivity application** designed to keep you organized and efficient. With a **clean UI**, **smart reminders**, and **seamless sync across devices**, TaskFlow ensures you stay on top of your tasks effortlessly.
 

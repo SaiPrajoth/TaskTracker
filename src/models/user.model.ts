@@ -7,9 +7,10 @@ import mongoose,{Schema,Document} from 'mongoose';
 // }
 
 export interface Task extends Document{
+    createdAt:Date
     title:string,
     description?:string,
-    deadline:Date
+    deadline?:Date
 
     // labels:Labels[]
 }
@@ -30,6 +31,11 @@ export interface User extends Document{
 }
 
 const TaskSchema:Schema<Task> =new Schema({
+    createdAt:{
+        type:Date,
+        default:new Date()
+
+    },
     title:{
         type:String,
         required:[true,'task title is required'],
@@ -43,8 +49,7 @@ const TaskSchema:Schema<Task> =new Schema({
         max:[40,'task description should be atmost of 40 characters']
     },
     deadline:{
-        type:Date,
-        
+        type:Date
     }
 })
 
